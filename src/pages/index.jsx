@@ -1,7 +1,7 @@
 import styles from '../styles/Home.module.css'
 import React, { useState } from 'react'
 import Head from 'next/head'
-import Menu from '../components/menu'
+import Menu from '../components/Menu'
 import Jogando from '../components/Jogando'
 
 export default function Home() {
